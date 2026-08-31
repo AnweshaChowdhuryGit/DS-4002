@@ -23,6 +23,6 @@
 #### Sample too small to quantify uncertainty. 
 
 ### Conclusions 
-#### Most people do not believe a hot dog is a sandwich. 
+#### Most people do not believe a hot dog is a sandwich. The Ed school had the highest proportion of individuals who said 'Yes' for a hot dog being a sandwich.
 
 ### Cleaned Data File
