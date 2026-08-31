@@ -88,27 +88,59 @@ The percentage answering Yes was relatively similar across all four academic yea
 
 ## Sample Proportion
 
-The proportion of respondents answering Yes is calculated as:
+The proportion of respondents answering **Yes** is calculated as:
 
-\[
-\hat{p} = \frac{\text{Number of Yes responses}}{\text{Total number of responses}}
-\]
+$$
+\hat{p} =
+\frac{\text{Number of Yes responses}}
+{\text{Total number of responses}}
+$$
 
-Using the Excel formulas included in the analysis, the project can calculate:
+For this dataset:
 
-- Total sample size
-- Number of Yes responses
-- Observed proportion answering Yes
-- Standard error
-- Lower and upper bounds of a 95% confidence interval
+- **Total sample size:** 519 respondents
+- **Yes responses:** 144
+- **No responses:** 375
+- **Observed proportion answering Yes:** 27.7%
+
+The sample proportion is:
+
+$$
+\hat{p} = \frac{144}{519} \approx 0.277
+$$
+
+This means that approximately **27.7% of respondents surveyed considered a hot dog to be a sandwich**.
+
+---
 
 ## 95% Confidence Interval
 
-A standard approximate 95% confidence interval for a proportion is:
+A standard approximate 95% confidence interval for a proportion is calculated as:
 
-\[
-\hat{p} \pm 1.96\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
-\]
+$$
+\hat{p} \pm 1.96
+\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
+$$
+
+where:
+
+- $\hat{p}$ is the observed sample proportion
+- $n$ is the sample size
+
+Using the survey data:
+
+- **Observed proportion:** 27.7%
+- **Approximate 95% confidence interval:** **23.9% to 31.6%**
+
+Under standard random-sampling assumptions, this interval estimates a plausible range for the proportion of a larger population that might answer Yes.
+
+### Important Interpretation
+
+Because this dataset was collected using a **convenience sample**, the confidence interval should be interpreted cautiously. It quantifies sampling variability under standard statistical assumptions but does **not** account for potential bias caused by the sampling method.
+
+Respondents were interviewed at a football game and included marching band members and other people attending the event. Therefore, the sample may not be representative of all students or the general population.
+
+As a result, the calculated confidence interval is useful for describing **uncertainty within the observed sample**, but the results should not automatically be generalized to all students or the general population.
 
 ### Important Interpretation
 
