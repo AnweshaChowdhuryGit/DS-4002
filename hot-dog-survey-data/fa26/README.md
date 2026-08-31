@@ -20,6 +20,9 @@
 
 
 ### Quantification of Uncertainty 
-#### Sample too small to quantify uncertainity. 
+#### Sample too small to quantify uncertainty. 
+
+### Conclusions 
+#### Most people do not believe a hot dog is a sandwich. 
 
 ### Cleaned Data File
