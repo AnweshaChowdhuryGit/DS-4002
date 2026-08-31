@@ -14,6 +14,8 @@
 | Sandwich| Answers the question: Is a hot dog a sandwich?| Y or N binary. "Yes" indicates that the responder believes that a hot dog is a sandwicA, "No" indicates that the responder does not believe that a hot dog is a sandwich |
 
 ### Exploratory Plots 
+<img width="687" height="274" alt="image" src="https://github.com/user-attachments/assets/5bb5c04d-820c-41f7-95c0-9dc9667baea2" />
+
 
 ### Quantification of Uncertainty 
 
