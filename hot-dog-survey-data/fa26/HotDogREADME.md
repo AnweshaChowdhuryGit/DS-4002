@@ -23,6 +23,6 @@
 #### Sample too small to quantify uncertainty. 
 
 ### Conclusions 
-#### Most people do not believe a hot dog is a sandwich. The Ed school had the highest proportion of individuals who said 'Yes' for a hot dog being a sandwich. Perhaps greater education informs the participant's opinion more. McIntire had the lowest proportion of students respond yes, alluding to their ...
+#### Most people do not believe a hot dog is a sandwich. The Ed school had the highest proportion of individuals who said 'Yes' for a hot dog being a sandwich. Perhaps greater education informs the participant's opinion more. McIntire had the lowest proportion of students respond yes, alluding to their more commercialized justifications for their opinions.
 
 ### Cleaned Data File
