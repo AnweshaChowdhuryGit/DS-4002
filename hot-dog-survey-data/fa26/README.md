@@ -1,7 +1,7 @@
 
 
 # DS Project 0
-### Provenance: We opted to use a google form to collect survey results. We then transferred the results of the form to a google speadsheet, and then downloaded it as a CSV file.
+### Provenance: #### We opted to use a google form to collect survey results. We then transferred the results of the form to a google speadsheet, and then downloaded it as a CSV file.
 
 ### Data Dictionary
 
