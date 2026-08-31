@@ -15,6 +15,7 @@
 
 ### Exploratory Plots 
 <img width="687" height="274" alt="image" src="https://github.com/user-attachments/assets/5bb5c04d-820c-41f7-95c0-9dc9667baea2" />
+<img width="687" height="274" alt="image" src="https://github.com/user-attachments/assets/e76762fe-0bf7-4092-a6a5-274f6e08f0be" />
 
 
 ### Quantification of Uncertainty 
