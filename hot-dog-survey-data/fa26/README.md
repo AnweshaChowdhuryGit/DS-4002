@@ -1,7 +1,10 @@
 
 
-### DS Project 0
-## Provenance: We opted to use a google form to collect survey results. 
+# DS Project 0
+## Provenance: We opted to use a google form to collect survey results
+
+### Data Dictionary
+
 | Column| Description| Response|                   
 |-------|------------|-------------------|
 | Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
